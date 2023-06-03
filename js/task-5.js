@@ -16,5 +16,5 @@ const isAnagram = function ( str1, str2 ) {
   }
 }
 
-console.log( isAnagram( 'Abra', 'rBaaa'));
+console.log( isAnagram( 'Abra', 'rBaa'));
 
